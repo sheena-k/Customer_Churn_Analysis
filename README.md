@@ -15,7 +15,7 @@
 
 * Customer information: tenure as a customer, contract, payment method, paperless billing, monthly charges, total charges and number of tickets opened in the categories administrative and technical.
 
-*Demographic information about customers: gender, age range, senior citizen and if they have partners and dependents.
+* Demographic information about customers: gender, age range, senior citizen and if they have partners and dependents.
 --- 
 ## **Data Analysis Xpression (DAX):**
 
