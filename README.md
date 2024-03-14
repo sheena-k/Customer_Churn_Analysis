@@ -1,8 +1,7 @@
 # Customer_Churn_Analysis
 
-*Problem Statement :
 
-*The purpose of this task is to:
+The purpose of this task is to:
 
 *Define proper KPI's.
 *Create a dashboard on Customer Churn Retention Analysis reflecting the KPI's.
@@ -41,3 +40,19 @@ Data Analysis Xpression (DAX):
 *Streaming TV % =DIVIDE(CALCULATE(COUNT('01 Churn-Dataset'[StreamingTV]), '01 Churn-Dataset'[StreamingTV] ="Yes", '01 Churn-Dataset'[Churn]="Yes"),CALCULATE(COUNT('01 Churn-Dataset'[StreamingTV]),'01 Churn-Dataset'[Churn]="Yes"),0)
 
 *Tech Support % =DIVIDE(CALCULATE(COUNT('01 Churn-Dataset'[TechSupport]), '01 Churn-Dataset'[TechSupport] ="Yes", '01 Churn-Dataset'[Churn]="Yes"),CALCULATE(COUNT('01 Churn-Dataset'[TechSupport]),'01 Churn-Dataset'[Churn]="Yes"),0)
+
+Inferences:
+
+*On analyzing Loyalty of Customer based on tenure, the churn out rate in recently joined customer is higher.
+
+*Customers with bi annual contract have been with company for long time compare to yearly and monthly contract.
+
+*The churn out rate is 27% from the given dataset.
+
+*Most churn out are not using services like online and tech support.
+
+Recommendations:
+
+*The company should try to convince customer for taking the yearly or bi yearly plans.
+
+*The company should make plan on increasing customer taking tech and online support.
