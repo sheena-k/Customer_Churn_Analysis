@@ -4,13 +4,19 @@
 The purpose of this task is to:
 
 *Define proper KPI's.
+
 *Create a dashboard on Customer Churn Retention Analysis reflecting the KPI's.
+
 *Explaining your findings, and include suggestions.
+
 *Services customer has signed up for phone service, internet service, online security, online backup, device protection, streaming TV, streaming movies, tech support, and multiple lines.
-*Customer information: tenure as a customer, contract, payment method, paperless billing, monthly charges, total charges and number of tickets opened in the categories administrative and technical
+
+*Customer information: tenure as a customer, contract, payment method, paperless billing, monthly charges, total charges and number of tickets opened in the categories administrative and technical.
+
 *Demographic information about customers: gender, age range, senior citizen and if they have partners and dependents.
 
 Data Analysis Xpression (DAX):
+
 *Measures used in visualization are:
 
 *Average MonthlyCharges = AVERAGE('01 Churn-Dataset'[MonthlyCharges])
