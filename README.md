@@ -9,7 +9,7 @@
 
 * Create a dashboard on Customer Churn Retention Analysis reflecting the KPI's.
 
-* Explaining your findings, and include suggestions.
+* Explaining findings, and include suggestions.
 
 * Services customer has signed up for phone service, internet service, online security, online backup, device protection, streaming TV, streaming movies, tech support, and multiple lines.
 
