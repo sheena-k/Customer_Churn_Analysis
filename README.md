@@ -1,4 +1,4 @@
-# ** Customer_Churn_Analysis**
+# **Customer_Churn_Analysis**
 ---
 ![GitHub Logo](https://github.com/sheena-k/Customer_Churn_Analysis/blob/main/customer_churn.png)
 --- 
