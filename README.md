@@ -19,7 +19,7 @@
 --- 
 ## **Data Analysis Xpression (DAX):**
 
-*Measures used in visualization are:
+* Measures used in visualization are:
 
 * **Average MonthlyCharges** = AVERAGE('01 Churn-Dataset'[MonthlyCharges])
 
